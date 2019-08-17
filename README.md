@@ -1,8 +1,7 @@
 # Абстрактная Фабрика
 
-<img src="/screens/1.jpg" width="30%">        
-<img src="/screens/2.jpg" width="30%">     
-<img src="/screens/3.jpg" width="30%">   
+<img src="/screens/screen1.jpg" width="32%"> <img src="/screens/screen2.jpeg" width="32%"> <img src="/screens/screen3.jpeg" width="32%">    
+</div>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Swift-4.2-orange.svg" alt="Swift 4.2"/>
@@ -11,6 +10,12 @@
 <img src="https://img.shields.io/badge/iOS-12%2B-brightgreen.svg" alt="iOS 12"/>
 <img src="https://img.shields.io/badge/licence-MIT-lightgray.svg" alt="Licence MIT"/>
 </p>
+<div align = "center">
+<img src="/screens/image1.jpeg" width="60%">     
+<img src="/screens/image2.jpeg" width="60%">     
+<img src="/screens/image3.jpeg" width="60%">     
+<br>
+<div align="left">
 
 ## Определение
 **Абстрактная фабрика** - это порождающий паттерн проектирования, который позволяет создавать связанные объекты, не привызяваясь к конкретным классам.
