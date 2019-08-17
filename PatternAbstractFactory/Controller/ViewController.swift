@@ -17,6 +17,8 @@ class ViewController: UIViewController {
   override func viewDidLoad() {
     super.viewDidLoad()
 
+    self.title = "Мебель для дома"
+  
   }
 
   @IBAction func kitchenOrder(_ sender: Any) {
