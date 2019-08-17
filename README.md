@@ -1,9 +1,9 @@
 # Абстрактная Фабрика
 
 <div align = "center">
-<img src="/screens/screen1.jpg" width="30%">        
-<img src="/screens/screen2.jpg" width="30%">     
-<img src="/screens/screen3.jpg" width="30%">    
+<img src="/screens/screen1.jpeg" width="33%">        
+<img src="/screens/screen2.jpeg" width="33%">     
+<img src="/screens/screen3.jpeg" width="33%">    
 </div>
 
 <p align="center">
